@@ -26,16 +26,18 @@
 That's SlugSaver! Grocery deals, simplified.
 
 ### WHAT'S NEXT:
-Improvement:
+**Improvement:**
 * Get Safeway's weekly ads to >99.5% accuracy
 * Continue testing upcoming weekly ads from New Leaf and Safeway grocery stores.
 * Incorporate CostCo, Whole Foods, and others.
-Core functionality we wished we got to:
+
+**Core functionality we wished we got to:**
 * Create alerts and subscriptions for sales for your favorite items or necessities.
 * Ability to scan and upload receipts to track your purchases over time automatically to see where you save or wasted money.
 * Automatic scheduled jobs to download weekly ads and scrape when they come out rather than manually downloading ads and scraping locally with commands.
 * UI and front end design
-Additional features:
+
+**Additional features:**
 * Track sale trends over time and predict trends.
 * Incorporate regular (non-sale) items for a fully-fledged database. Find ways to scrape this while honoring robots.txt.
 * Incorporate other items other than grocerys and edibles.
