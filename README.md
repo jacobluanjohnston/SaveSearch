@@ -1,4 +1,7 @@
 # SlugSaver
+<img width="839" height="634" alt="Screenshot 2025-10-04 at 4 12 57 PM" src="https://github.com/user-attachments/assets/2192f190-8834-4432-9efc-7b670bd59cc3" />
+
+
 
 * Hi, we're SlugSaver. We want to make grocery shopping smarter for UCSC students and Santa Cruz residents.
 
@@ -31,7 +34,8 @@ Improvement:
 * Incorporate CostCo, Whole Foods, and others.
 Core functionality we wished we got to:
 * Create alerts and subscriptions for sales for your favorite items or necessities.
-* Ability to scan and upload reciepts to track your purchases over time automatically to see where you save or wasted money.
+* Ability to scan and upload receipts to track your purchases over time automatically to see where you save or wasted money.
+* UI and front end design
 Additional features:
 * Track sale trends over time and predict trends.
 * Incorporate regular (non-sale) items for a fully-fledged database. Find ways to scrape this while honoring robots.txt.
