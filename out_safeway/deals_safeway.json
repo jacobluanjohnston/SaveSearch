@@ -1,0 +1,2369 @@
+[
+  {
+    "item": "Signature SELECT Pork Loin Assorted or Rib Chops",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "BOGO",
+    "store": "Safeway"
+  },
+  {
+    "item": "Cuties Mandarins",
+    "sale_price": 3.88,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "2lb",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Pristine Green Grapes",
+    "sale_price": 1.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Red Seedless Grapes",
+    "sale_price": 1.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Waterfront Bistro Colossal Raw Shrimp",
+    "sale_price": 6.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": "16-20ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Diamond Valley 93% Lean Ground Beef",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Nabisco Ritz Sandwich Crackers",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "8ct",
+    "deal_type": "BOGO",
+    "store": "Safeway"
+  },
+  {
+    "item": "Thomas Bagels, English Muffins or Swirl Bread",
+    "sale_price": 4.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Corona, Pacifico, Sierra Nevada, White Claw or Elysian",
+    "sale_price": 15.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "12pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Tostitos, Ruffles, Frito-Lay Baked or Simply",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "BOGO",
+    "store": "Safeway"
+  },
+  {
+    "item": "Prego Pasta Sauce",
+    "sale_price": 2.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "24oz",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Campbell's Condensed Soup",
+    "sale_price": 2.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "10.5oz",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Annie's Macaroni and Cheese",
+    "sale_price": 2.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Campbell's Homestyle Soup",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "18.6oz",
+    "deal_type": "BOGO",
+    "store": "Safeway"
+  },
+  {
+    "item": "Campbell's Chunky Soup",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "18.6oz",
+    "deal_type": "BOGO",
+    "store": "Safeway"
+  },
+  {
+    "item": "Hershey Snack Size, Mars or Butterfinger Fun Size Bag",
+    "sale_price": 3.97,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT or Ranchers Reserve Beef Patties",
+    "sale_price": 1.97,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "2lb",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "USDA Choice Boneless Beef Chuck Roast",
+    "sale_price": 6.97,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Fresh Atlantic Salmon Whole Fillet",
+    "sale_price": 8.97,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Coca Cola or 7UP",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "12pk",
+    "deal_type": "BOGO",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Ice Cream",
+    "sale_price": 3.97,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "1.5qt",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT American or Shredded Cheese",
+    "sale_price": 5.97,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Pumpkin Spice Maple Cookies",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Pumpkin Spice Sandwich",
+    "sale_price": 6.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "15ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Pumpkin Spice Sandwich",
+    "sale_price": 4.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "12ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Lucerne Whipped Topping",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "8oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Soup",
+    "sale_price": 7.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "32oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Pumpkin Spice Yogurt Parfaits",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "2ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Prime Italian Ham off the Bone",
+    "sale_price": 9.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "St. Louis Style Ribs",
+    "sale_price": 7.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Ready Meals",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "BOGO",
+    "store": "Safeway"
+  },
+  {
+    "item": "Create-a-Combo Meal",
+    "sale_price": 9.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Turnovers",
+    "sale_price": 4.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "4ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Jumbo Cookies",
+    "sale_price": 6.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "6ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Two Bite Rolls",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "20ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Single Layer Decorated Cake",
+    "sale_price": 13.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Overjoyed Boutique Fragrant Rose",
+    "sale_price": 19.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Marigolds",
+    "sale_price": 8.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Alstroemeria",
+    "sale_price": 6.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Fall in Love Bouquet",
+    "sale_price": 14.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Disney, J. Lohr or Rodney Strong",
+    "sale_price": 15.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "750ml",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Bernardus, Roth or Educated Guess",
+    "sale_price": 22.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "750ml",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Platinum 7X",
+    "sale_price": 13.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "750ml",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Josh Cabernet, J. Lohr Estates Seven Oaks",
+    "sale_price": 19.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "1.5L",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Cantaloupe",
+    "sale_price": 2.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Baltimore Snacking Cheese",
+    "sale_price": 9.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Two-Wind Farms Spread",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "8oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Whole Grain Bread",
+    "sale_price": 4.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "24oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Oscar Mayer Lunchables",
+    "sale_price": 1.29,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Oscar Mayer Deli Fresh Turkey or Ham",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "9oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Foster Farms Mini Corn Dogs, Prepared Chicken",
+    "sale_price": 7.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "VivaPlant Better-or-Butter Biscuits",
+    "sale_price": 2.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "8ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Yoplait Pack Varieties",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Skannon Oikos Triple Zero Greek Yogurt",
+    "sale_price": 0.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "5.3oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Original Oat",
+    "sale_price": 3.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "32oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Coffee-mate Creamer",
+    "sale_price": 2.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "32oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Pillsbury Cinnamon Rolls, Crescents or Biscuits",
+    "sale_price": 2.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Sweet Cream or Smooth",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Breyers Ice Cream",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "1.5qt",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Healthy Choice Simply Steamers",
+    "sale_price": 2.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Stouffer's Stuffed Cod or Filet",
+    "sale_price": 8.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Pepperidge Farm Milano, Goldfish Crackers or Tahoe Cookies",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Fiber-Lay Variety Pack",
+    "sale_price": 8.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Pepsi",
+    "sale_price": 12.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "12pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "La Croix Sparkling Water",
+    "sale_price": 3.29,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "8pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Gatorade",
+    "sale_price": 1.69,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "32oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "The Original Iced Coffee K-Cup Pods",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "12ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Stouffer's Family Size Lasagna",
+    "sale_price": 3.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Hidden Valley Ranch Seasoning",
+    "sale_price": 3.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Goldfish Crackers",
+    "sale_price": 2.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Gormet Dog Bix",
+    "sale_price": 2.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Luna Lunchable Bars",
+    "sale_price": 5.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Charmin Ultra Soft",
+    "sale_price": 16.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "18pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Friskies Gravy Wet or Surfin' & Turfin'",
+    "sale_price": 24.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "32ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Coors, Bud or Miller",
+    "sale_price": 24.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "30pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Kendall Jackson",
+    "sale_price": 10.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "750ml",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature Boneless Skinless Chicken Breasts",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Pork Shoulder Picnic Roast",
+    "sale_price": 1.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "USDA Choice Angus New York Beef",
+    "sale_price": 8.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Primo Ranch Boneless Country Style Pork Ribs",
+    "sale_price": 8.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "USDA Choice Boneless Beef Board Roast",
+    "sale_price": 7.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Smithfield Boneless Hickory Smoked Pork Chops",
+    "sale_price": 6.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Fresh Whole Cooked Dungeness Crab",
+    "sale_price": 11.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Colossal Raw Shrimp",
+    "sale_price": 10.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": "13-15ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Fresh Large BBQ Oysters",
+    "sale_price": 6.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "1 dozen",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Dungeness Crab Cocktail Claws",
+    "sale_price": 16.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Red, Orange or Yellow Bell Pepper",
+    "sale_price": 1.5,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Taylor Farms Chopped Salad Kit",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "9.5oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Large Navel Oranges",
+    "sale_price": 1.69,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Pomegranate",
+    "sale_price": 2.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Garlic",
+    "sale_price": 0.5,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Organic Raspberries or Blackberries",
+    "sale_price": 4.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "6oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Organic Bartlett or Anjou Pears",
+    "sale_price": 2.49,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Organic Blueberries",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "6oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Chicken Tenders",
+    "sale_price": 5.0,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Country Style Pork Ribs",
+    "sale_price": 2.5,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Lobster Tail",
+    "sale_price": 5.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Sweet Corn or Cucumber",
+    "sale_price": 2.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Mini Muffins or Signature SELECT Coffee Cake",
+    "sale_price": 5.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT POKE Cut Bacon",
+    "sale_price": 5.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "12oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Cheesecake",
+    "sale_price": 5.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Hass Avocado",
+    "sale_price": 1.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Crystal Geyser Spring Water",
+    "sale_price": 5.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "35pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Rockstar Energy",
+    "sale_price": 5.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "4pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Lay's Potato Chips or Poppables",
+    "sale_price": 2.5,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Barefoot Cellars",
+    "sale_price": 5.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "750ml",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Rose Garden Bouquet",
+    "sale_price": 5.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "POM Wonderful Pomegranate Juice",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "16oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Mariani Pitted Dates",
+    "sale_price": 9.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "40oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Boar's Head",
+    "sale_price": 4.99,
+    "reg_price": null,
+    "unit": "LB",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Rana Pasta Sauce",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "15oz",
+    "deal_type": "BOGO",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Orange Juice",
+    "sale_price": 3.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "52oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Hostess Twinkies",
+    "sale_price": 1.33,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "10pk",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Gorton's Seafood Selections",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "BOGO",
+    "store": "Safeway"
+  },
+  {
+    "item": "Meat and Seafood",
+    "sale_price": 5.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Johnsonville Breakfast Sausage",
+    "sale_price": 4.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "12oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Gluten Free Sandwiches Sausage Roll",
+    "sale_price": 4.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Big Shoulders Shredded Chicken",
+    "sale_price": 8.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "32oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Jack Daniels Entree",
+    "sale_price": 10.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "32oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Noosa Yoghurt",
+    "sale_price": 2.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "8oz",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Zoi Greek Yogurt",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "32oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Califia Farms Almondmilk or Oatmilk",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "48oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Tropicana Orange Juice",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "52oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Starbucks Iced Coffee",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "48oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Lucerne Cottage Cheese",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "24oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Knudsen Sour Cream",
+    "sale_price": 1.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "16oz",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Bays English Muffins",
+    "sale_price": 1.35,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "12oz",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Country Crock Butter",
+    "sale_price": 10.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "30oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Kite Hill Almond Cheese Snacks",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Siggi's 3x Lactose Free Yogurt",
+    "sale_price": 1.67,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "5.3oz",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Simply Potatoes",
+    "sale_price": 3.5,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "20oz",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Farm Rich Frozen Appetizers",
+    "sale_price": 6.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "24oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Keto Bars",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Birds Eye Voila! Family Skillets",
+    "sale_price": 7.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "36oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Red's Breakfast Burritos",
+    "sale_price": 1.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Frozen Fruit",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "BOGO",
+    "store": "Safeway"
+  },
+  {
+    "item": "Marie Callender's Fruit or Cream Pie",
+    "sale_price": 8.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Frozen Potatoes",
+    "sale_price": 4.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "32oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Birds Eye Steamfresh Vegetables",
+    "sale_price": 2.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "10oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Stouffer's Lean Cuisine or Family Size Sandwiches",
+    "sale_price": 4.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Freschetta Pizza",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "SeaMazola Entrees",
+    "sale_price": 6.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Tai Pei Entrees",
+    "sale_price": 3.79,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT or O Organics Baby Food",
+    "sale_price": 29.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Bigelow Tea",
+    "sale_price": 1.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "20ct",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Apple Juice",
+    "sale_price": 1.33,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "64oz",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Local Hive Honey",
+    "sale_price": 8.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "32oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Maruchan Ramen Case",
+    "sale_price": 9.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "24ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Chicken of the Sea Tuna in Water",
+    "sale_price": 9.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "10pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Kraft Original Macaroni & Cheese",
+    "sale_price": 9.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "18pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Barilla Protein Plus Pasta",
+    "sale_price": 1.33,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Lucerne Lasagna",
+    "sale_price": 1.33,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Hormel Compleats",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "10oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Minute Jasmine Rice",
+    "sale_price": 2.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "14oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Maui Sustainable Snackable",
+    "sale_price": 3.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Almura Almond Drink",
+    "sale_price": 1.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Fox Soy Marinade & Sauce",
+    "sale_price": 5.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "10oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Kraft Mayonnaise",
+    "sale_price": 4.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "30oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Baking Chips",
+    "sale_price": 6.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "10oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Duncan Hines Cake Mix",
+    "sale_price": 2.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "15.25oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Jet-Puffed Mini Marshmallows",
+    "sale_price": 1.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "10oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Quaker Breakfast Cereals or Granola Bars",
+    "sale_price": 1.33,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Kellogg's Pop-Tarts or Nutri-Grain Bars",
+    "sale_price": 1.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "English Muffin Oats",
+    "sale_price": 5.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "10oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Instant Cake Mix",
+    "sale_price": 5.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Welch's Fruit Snacks",
+    "sale_price": 8.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Club Mix, Andy Capp's or Gardetto's Snack Mix",
+    "sale_price": 1.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Blue Diamond Almonds",
+    "sale_price": 6.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Cheez-It Original or Puff'd Crackers",
+    "sale_price": 2.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Quaker Rice Cakes",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "4.47oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Bush's Classic Candy Corn",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "40oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Pepsi",
+    "sale_price": 2.79,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "2L",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Watermelon Sparkling Water",
+    "sale_price": 0.75,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Electrolit",
+    "sale_price": 1.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "21oz",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Hefty Trash Bags",
+    "sale_price": 19.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Potting Mix",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Hefty Slider Bags",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Dawn Powerwash Dish Spray",
+    "sale_price": 5.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "16oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Blue Buffalo Wet Dog Food",
+    "sale_price": 3.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "12.5oz",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Pup-Peroni Dog Treats",
+    "sale_price": 13.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "25oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Open Nature Wet Cat Food",
+    "sale_price": 2.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Fresh Step Cat Litter",
+    "sale_price": 19.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "25lb",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Frigo Crumbled Cheese",
+    "sale_price": 3.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Daily Oatmilk",
+    "sale_price": 4.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "64oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Petit Pot Pudding",
+    "sale_price": 3.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "4oz",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Wild Wonder Sparking Probiotics",
+    "sale_price": 1.33,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "12oz",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Sof-It Squeezable Pack",
+    "sale_price": 9.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "4pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Perfect Bar Mini",
+    "sale_price": 7.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Fresh Salad Blends",
+    "sale_price": 1.33,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "5oz",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Farmer John Sausage Links",
+    "sale_price": 2.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "14oz",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Tastes or Hummus",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "8oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "The Laughing Cow Cheese Wedges",
+    "sale_price": 8.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "6ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Columbus Charcuterie Kit",
+    "sale_price": 10.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Castello Balsamic Glaze",
+    "sale_price": 4.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "8.5oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Happy Egg Free Range Eggs",
+    "sale_price": 6.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "12ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Bonne Maman Preserves",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "13oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Nixe Zero Sugar Soda",
+    "sale_price": 2.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "4pk",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Post Cereal",
+    "sale_price": 3.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Quaker Rice Crisps",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "3.52oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "White Castle Sliders",
+    "sale_price": 6.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "6ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Sun Luck Toasted Sesame Oil",
+    "sale_price": 4.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "5oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "De Cecco Spaghetti",
+    "sale_price": 4.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "1lb",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "La Tortilla Factory Carb Cutting Tortillas",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "8ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Yakult Probiotic Drink",
+    "sale_price": 2.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "5pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Twix",
+    "sale_price": 1.5,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "M&M's",
+    "sale_price": 1.5,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Wrigley's Extra Spearmint Gum",
+    "sale_price": 1.5,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Orbit Extra",
+    "sale_price": 1.5,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Hershey Halloween Snack Size",
+    "sale_price": 4.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Ghirardelli Chocolate",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Hershey Assorted",
+    "sale_price": 8.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Hershey Halloween Assorted",
+    "sale_price": 11.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Under Pumpkins Mixed Nuts",
+    "sale_price": 8.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Mars Assorted XL Variety Bag",
+    "sale_price": 19.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "55oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Mars XXXL Variety Bag",
+    "sale_price": 29.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "96oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Speedy Rose or Butterfinger",
+    "sale_price": 2.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "M&M's Magnolia Mint",
+    "sale_price": 1.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Bush's Candy Corn Bag",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Laffy Taffy Fun Size",
+    "sale_price": 1.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Tootsie Lay Down",
+    "sale_price": 1.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Ferrara Mixed Miniatures Bag",
+    "sale_price": 1.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "GoodCook Stickers",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "GoodCook All-Purpose Containers",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Hefti Foil Baking Pans",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Autumn Paper Goods",
+    "sale_price": 1.5,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Pyrex Food Storage Container",
+    "sale_price": 6.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Febreze",
+    "sale_price": 6.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Harvest Candles",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Fall Scented Melanie",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Clorox Disinfecting Wipes",
+    "sale_price": 15.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "4pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "TRESemm\u00e9 Shampoo or Conditioner",
+    "sale_price": 6.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "28oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "TRESemm\u00e9 Hair Stylers",
+    "sale_price": 6.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Batiste Dry Shampoo",
+    "sale_price": 10.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "4.23oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "CeraVe Facial Cleanser",
+    "sale_price": 14.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "12oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Native Body Wash",
+    "sale_price": 9.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "18oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Jergens Lotion",
+    "sale_price": 8.49,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "21oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Honey Pot Organic Pads",
+    "sale_price": 8.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Always Infinity Pads",
+    "sale_price": 12.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Always Discreet Incontinence",
+    "sale_price": 24.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Airborne",
+    "sale_price": 9.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "10ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Vitafusion Vitamins",
+    "sale_price": 12.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Nature Made Vitamins or Daily Pack",
+    "sale_price": null,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "BOGO",
+    "store": "Safeway"
+  },
+  {
+    "item": "BIC Disposable Razors",
+    "sale_price": 6.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Colgate Toothpaste",
+    "sale_price": 5.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "2pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "U by Kotex",
+    "sale_price": 9.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Nuun Hydration",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "10ct",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Muscle Milk Complete Protein Shakes",
+    "sale_price": 8.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "4pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Ensure Max Protein Shakes",
+    "sale_price": 15.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "4pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Boost Max Protein Shakes",
+    "sale_price": 11.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "4pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "O Organics Baby Food",
+    "sale_price": 2.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature SELECT Baby Wipes",
+    "sale_price": 5.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Signature Supreme Diapers",
+    "sale_price": 19.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Pedialure",
+    "sale_price": 13.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "6pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Peter Rabbit Pouches",
+    "sale_price": 1.25,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "Gerber Multi Grain",
+    "sale_price": 3.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "8oz",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Comotomo Baby Bottles",
+    "sale_price": 10.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "2pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Pampers Baby Wipes",
+    "sale_price": 7.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "3pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "Seventh Generation Sensitive or Extra Strong",
+    "sale_price": 11.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "CLIF Luna or Builder's Bar",
+    "sale_price": 3.5,
+    "reg_price": null,
+    "unit": "EA",
+    "size": null,
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "LARABAR",
+    "sale_price": 2.5,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "5pk",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "RXBAR",
+    "sale_price": 2.0,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "4pk",
+    "deal_type": "multi_buy",
+    "store": "Safeway"
+  },
+  {
+    "item": "think! Protein Bars",
+    "sale_price": 8.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "10pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  },
+  {
+    "item": "CLIF Energy Bars",
+    "sale_price": 12.99,
+    "reg_price": null,
+    "unit": "EA",
+    "size": "12pk",
+    "deal_type": "regular",
+    "store": "Safeway"
+  }
+]

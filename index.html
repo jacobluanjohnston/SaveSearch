@@ -1,0 +1,66 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>SlugSaver - Santa Cruz Grocery Deals</title>
+<style>
+body{font-family:system-ui;margin:0;padding:24px;background:#f5f5f5}
+.header{background:white;padding:24px;border-radius:8px;margin-bottom:24px;box-shadow:0 2px 4px rgba(0,0,0,0.1)}
+h1{margin:0;color:#003262}
+.search{width:100%;padding:12px;font-size:16px;border:2px solid #ddd;border-radius:6px;margin-top:16px}
+.stats{margin-top:12px;color:#666}
+table{width:100%;background:white;border-radius:8px;overflow:hidden;box-shadow:0 2px 4px rgba(0,0,0,0.1)}
+th{background:#003262;color:white;padding:12px;text-align:left;font-weight:600}
+td{padding:12px;border-bottom:1px solid #eee}
+tr:hover{background:#f9f9f9}
+.badge{padding:4px 8px;border-radius:4px;font-size:12px;font-weight:600}
+.new-leaf{background:#4CAF50;color:white}
+.safeway{background:#ff6b6b;color:white}
+.price{font-weight:600;color:#003262}
+.deal-type{font-size:11px;color:#666;text-transform:uppercase}
+</style>
+</head><body>
+<div class="header">
+  <h1>🛒 SlugSaver - Santa Cruz Grocery Deals</h1>
+  <div class="stats" id="stats">Loading deals...</div>
+  <input class="search" id="q" placeholder="Search for items (e.g., chicken, pasta, milk)..." autofocus/>
+</div>
+<table>
+<thead><tr><th>Item</th><th>Size</th><th>Sale Price</th><th>Regular</th><th>Store</th><th>Deal Type</th></tr></thead>
+<tbody id="rows"></tbody>
+</table>
+<script>
+const rowsEl=document.getElementById('rows'),input=document.getElementById('q'),statsEl=document.getElementById('stats');
+let data=[];
+
+Promise.all([
+  fetch('out/deals.json').then(r=>r.json()),
+  fetch('out_safeway/deals_safeway.json').then(r=>r.json()).catch(()=>[])
+]).then(([newLeaf,safeway])=>{
+    newLeaf.forEach(d => {
+    if(!d.deal_type) d.deal_type = 'regular';
+    if(!d.store) d.store = 'New Leaf';
+  });
+
+  data=[...newLeaf,...safeway];
+  statsEl.textContent=`${data.length} deals from ${new Set(data.map(d=>d.store)).size} stores`;
+  render('');
+});
+
+function money(v){return v==null?'—':'$'+Number(v).toFixed(2)}
+function render(q){
+  rowsEl.innerHTML='';
+  const qq=q.toLowerCase();
+  const filtered=data.filter(r=>!qq||r.item.toLowerCase().includes(qq));
+  filtered.forEach(r=>{
+    const storeClass=r.store==='New Leaf'?'new-leaf':'safeway';
+    rowsEl.innerHTML+=`<tr>
+      <td><strong>${r.item}</strong></td>
+      <td>${r.size||'—'}</td>
+      <td class="price">${money(r.sale_price)}</td>
+      <td>${money(r.reg_price)}</td>
+      <td><span class="badge ${storeClass}">${r.store}</span></td>
+      <td><span class="deal-type">${r.deal_type||'—'}</span></td>
+    </tr>`;
+  });
+  if(filtered.length===0)rowsEl.innerHTML='<tr><td colspan="6" style="text-align:center;padding:48px;color:#999">No deals found</td></tr>';
+}
+input.addEventListener('input',e=>render(e.target.value));
+</script></body></html>

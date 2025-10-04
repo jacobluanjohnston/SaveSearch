@@ -1,0 +1,17 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>SlugSaver - Safeway</title>
+<style>body{font-family:system-ui;margin:24px}input{width:100%;padding:10px;font-size:16px}
+table{width:100%;border-collapse:collapse;margin-top:16px}th,td{padding:8px;border-bottom:1px solid #eee;text-align:left}
+th{background:#fafafa}.badge{background:#ff6b6b;color:white;padding:2px 6px;border-radius:6px;font-size:12px}</style>
+</head><body><h1>SlugSaver - Safeway Deals</h1><input id="q" placeholder="Search..." autofocus/>
+<table><thead><tr><th>Item</th><th>Size</th><th>Sale</th><th>Reg</th><th>Store</th><th>Unit</th></tr></thead>
+<tbody id="rows"></tbody></table><script>
+const rowsEl=document.getElementById('rows'),input=document.getElementById('q');let data=[];
+fetch('deals_safeway.json').then(r=>r.json()).then(j=>{data=j;render('')});
+function money(v){return v==null?'':'$'+Number(v).toFixed(2)}
+function render(q){rowsEl.innerHTML='';const qq=q.toLowerCase();
+data.filter(r=>!qq||r.item.toLowerCase().includes(qq)).forEach(r=>{
+rowsEl.innerHTML+=`<tr><td>${r.item}</td><td>${r.size||''}</td><td>${money(r.sale_price)}</td><td>${money(r.reg_price)}</td>
+<td><span class="badge">${r.store}</span></td><td>${r.unit||''}</td></tr>`})}
+input.addEventListener('input',e=>render(e.target.value));
+</script></body></html>
